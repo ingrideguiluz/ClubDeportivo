@@ -1,0 +1,224 @@
+c:\users\asus\documents\visual studio 2013\Projects\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe
+c:\users\asus\documents\visual studio 2013\Projects\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.pdb
+c:\users\asus\documents\visual studio 2013\Projects\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Form2.resources
+c:\users\asus\documents\visual studio 2013\Projects\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Form3.resources
+c:\users\asus\documents\visual studio 2013\Projects\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Form4.resources
+c:\users\asus\documents\visual studio 2013\Projects\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.exe
+c:\users\asus\documents\visual studio 2013\Projects\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.pdb
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe.config
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.exe
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.pdb
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csprojResolveAssemblyReference.cache
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Actividades.resources
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaAdministrador.resources
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.BuscarSocio.resources
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Consultas.resources
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Form1.resources
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuAdministrador.resources
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuSocio.resources
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Properties.Resources.resources
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csproj.GenerateResource.Cache
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.pdb
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.ListaComaneros.resources
+C:\Users\Guille\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaSocio.resources
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe.config
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.exe
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.pdb
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.pdb
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Actividades.resources
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaAdministrador.resources
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaSocio.resources
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.BuscarSocio.resources
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Consultas.resources
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.ListaComaneros.resources
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Form1.resources
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuAdministrador.resources
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuSocio.resources
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Properties.Resources.resources
+C:\Users\ASUS\Desktop\GuilleLog\Guille BUENO\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csproj.GenerateResource.Cache
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe.config
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.exe
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.pdb
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.pdb
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csprojResolveAssemblyReference.cache
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Actividades.resources
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaAdministrador.resources
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaSocio.resources
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.BuscarSocio.resources
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Consultas.resources
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.ListaComaneros.resources
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Form1.resources
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuAdministrador.resources
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuSocio.resources
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Properties.Resources.resources
+C:\Users\Martin CGM\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe.config
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.exe
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.pdb
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.pdb
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaAdministrador.resources
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaSocio.resources
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.BuscarSocio.resources
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Consultas.resources
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Form1.resources
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuAdministrador.resources
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuSocio.resources
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.GenerarCredencial.resources
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.ListaCompaneros.resources
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.FiltrarSocio.resources
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.pdfa.dll
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.xtra.dll
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.xml
+C:\Users\ASUS\Desktop\Martin\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.RecuperarContrasena.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe.config
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.exe
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.pdb
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.pdb
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.xml
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csprojResolveAssemblyReference.cache
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.FiltrarSocio.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaAdministrador.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaSocio.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.BuscarSocio.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Consultas.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.GenerarCredencial.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.ListaCompaneros.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Form1.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuAdministrador.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuSocio.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Properties.Resources.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.RecuperarContrasena.resources
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe.config
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.exe
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.pdb
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.FiltrarSocio.resources
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaAdministrador.resources
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaSocio.resources
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.BuscarSocio.resources
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Consultas.resources
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.GenerarCredencial.resources
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.ListaCompaneros.resources
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Form1.resources
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuAdministrador.resources
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuSocio.resources
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Properties.Resources.resources
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.RecuperarContrasena.resources
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.pdb
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.pdfa.dll
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.xtra.dll
+C:\Users\ASUS\Desktop\LIZ CASI FINAL\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.xml
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\bin\Debug\PROYECTOclub.exe.config
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.exe
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.pdb
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\bin\Debug\PROYECTOclub.exe
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\bin\Debug\PROYECTOclub.pdb
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\bin\Debug\itextsharp.xml
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.csprojResolveAssemblyReference.cache
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.FiltrarSocio.resources
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.AltaAdministrador.resources
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.AltaSocio.resources
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.BuscarSocio.resources
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.Consultas.resources
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.GenerarCredencial.resources
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.ListaCompaneros.resources
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.Form1.resources
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.MenuAdministrador.resources
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.MenuSocio.resources
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.Properties.Resources.resources
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.RecuperarContrasena.resources
+C:\Users\lizar\Desktop\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\bin\Debug\PROYECTOclub.exe.config
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.exe
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.pdb
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\bin\Debug\PROYECTOclub.exe
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\bin\Debug\PROYECTOclub.pdb
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\bin\Debug\itextsharp.pdfa.dll
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\bin\Debug\itextsharp.xtra.dll
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\bin\Debug\itextsharp.xml
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.FiltrarSocio.resources
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.AltaAdministrador.resources
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.AltaSocio.resources
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.BuscarSocio.resources
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.Consultas.resources
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.GenerarCredencial.resources
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.ListaCompaneros.resources
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.Form1.resources
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.MenuAdministrador.resources
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.MenuSocio.resources
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.RecuperarContrasena.resources
+C:\Users\ASUS\Desktop\PREFINAL\PROYECTOclubSI\PROYECTOclub\obj\Debug\PROYECTOclub.csproj.GenerateResource.Cache
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe.config
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.exe
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.pdb
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.pdb
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.xml
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csprojResolveAssemblyReference.cache
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.FiltrarSocio.resources
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaAdministrador.resources
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaSocio.resources
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.BuscarSocio.resources
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Consultas.resources
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.GenerarCredencial.resources
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.ListaCompaneros.resources
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Form1.resources
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuAdministrador.resources
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuSocio.resources
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Properties.Resources.resources
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.RecuperarContrasena.resources
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csproj.GenerateResource.Cache
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\bin\Debug\SpreadsheetLight.dll
+C:\Users\lizar\Desktop\PROYECTOclub\PROYECTOclub\bin\Debug\SpreadsheetLight.xml
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe.config
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.exe
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.pdb
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.pdb
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.pdfa.dll
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.xtra.dll
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\bin\Debug\SpreadsheetLight.dll
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\bin\Debug\itextsharp.xml
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\bin\Debug\SpreadsheetLight.xml
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.FiltrarSocio.resources
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaAdministrador.resources
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.AltaSocio.resources
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.BuscarSocio.resources
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Consultas.resources
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.GenerarCredencial.resources
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.ListaCompaneros.resources
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Form1.resources
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuAdministrador.resources
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.MenuSocio.resources
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.RecuperarContrasena.resources
+C:\Users\ASUS\Desktop\CasiLisUltima\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.csproj.GenerateResource.Cache
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\bin\Debug\SpreadsheetLight.dll
+C:\Users\Guille\Downloads\PROYECTOclub\PROYECTOclub\bin\Debug\SpreadsheetLight.xml
+C:\Users\ASUS\Documents\IngridSemestre7\NET\Diaz Eguiluz Ingrid Veronica 16091097\Unidad 3\PROYECTOclub\PROYECTOclub\bin\Debug\PROYECTOclub.exe.config
+C:\Users\ASUS\Documents\IngridSemestre7\NET\Diaz Eguiluz Ingrid Veronica 16091097\Unidad 3\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.exe
+C:\Users\ASUS\Documents\IngridSemestre7\NET\Diaz Eguiluz Ingrid Veronica 16091097\Unidad 3\PROYECTOclub\PROYECTOclub\obj\Debug\PROYECTOclub.pdb
